@@ -1,4 +1,3 @@
-Ссылка на Figma
-https://www.figma.com/design/
-pPoFxyuhuJ9qPabvl6qY5I/Untitled?node-id=16-
-175&t=R0sxrdAH1QXQ9uZY-1
+ТРПО
+UX - https://www.figma.com/design/MQuSFVqvR2xzfszg1G4R6N/Sora-s-team-library?node-id=0-1&t=cN6Ky8prtqRpnQB6-1
+UI - https://www.figma.com/design/ipXsQOwTNLUknEXl7dvwho/Untitled?node-id=0-1&p=f&t=aQzhVnLERdTsJ13z-0
